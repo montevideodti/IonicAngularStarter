@@ -1,0 +1,8 @@
+{
+  "name": "TestDemoAPp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "ddf8fc10"
+}
